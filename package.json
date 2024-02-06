@@ -1,7 +1,7 @@
 {
-  "name": "Eazy_erp_assignment",
+  "name": "eazy_erp_assignment",
   "version": "1.0.0",
-  "description": "Eazy_erp_assignment setup",
+  "description": "eazy_erp_assignment setup",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -16,6 +16,7 @@
     "jsonwebtoken": "^9.0.2",
     "md5": "^2.3.0",
     "mysql": "^2.18.1",
-    "nodemon": "^2.0.19"
+    "nodemon": "^2.0.19",
+    "pm2": "^5.3.1"
   }
 }
